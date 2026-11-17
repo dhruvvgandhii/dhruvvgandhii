@@ -1,60 +1,113 @@
 # Dhruv Gandhi
 
-**Software Development Engineer II · Production AI Systems · Agentic AI · AI Harness Engineering**
+**AI Platform Engineering · Agentic AI · AI Harness Engineering**
 
-[Rocket.new](https://www.rocket.new/) (formerly DhiWise) · Surat, Gujarat, India
+Software Development Engineer II at [Rocket.new](https://www.rocket.new/) (formerly DhiWise)  
+Surat, Gujarat, India
 
-[LinkedIn](https://www.linkedin.com/in/dhruvvgandhii/) · [Rocket Engineering](https://www.rocket.new/author/dhruv-gandhi) · [DEV Community](https://dev.to/dhruvvgandhii) · [Email](mailto:contact.dhruv.gandhi@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/dhruvvgandhii/) · [Peerlist](https://peerlist.io/dhruvvgandhii) · [Engineering Articles](https://www.rocket.new/author/dhruv-gandhi) · [DEV Community](https://dev.to/dhruvvgandhii) · [Email](mailto:contact.dhruv.gandhi@gmail.com)
 
-I build the engineering layer between an LLM call and a dependable product: orchestration, context, human oversight, provider integration, recovery, metering and the code-generation workflows they sit inside.
+---
 
-I joined DhiWise in April 2021 and progressed from engineering intern to SDE-II. My work has evolved from deterministic UI-generation algorithms to AI-assisted developer tools and production multi-agent systems.
+## About
 
-## Four generations of software generation
+I build the engineering systems that turn language models into reliable, controllable and cost-efficient software products.
 
-| Product | My engineering contribution |
-| --- | --- |
-| **DhiWise — Design-to-code** | Figma analysis, rule-based UI identification across 25+ component types, layout algorithms and incremental screen regeneration. Introduced LLM-assisted view naming in 2023. |
-| **WiseGPT — AI-assisted development** | Backend and LLM architecture, inline code completion and editing, streaming, context management, technical reviews and release coordination. |
-| **Rocket Build — Agentic AI** | Co-ownership of core code-generation workflows, structured commands, scoped context, user-in-the-loop execution and MCP/API connector integrations. Contributed to CrewAI and LangGraph-based agent systems. |
-| **AI harness integration** | Engineering work on a Go-based execution layer: agent coordination, durable state, event correlation, lifecycle controls and crash recovery. |
+Since joining DhiWise in April 2021, I have progressed from engineering intern to Software Development Engineer II, contributing across four generations of software generation architecture: deterministic design-to-code, AI-assisted development, autonomous code generation and AI harness engineering.
 
-## What I work on
+My work sits at the intersection of AI system architecture, distributed execution, developer experience, operational reliability, financial governance and technical delivery.
 
-- **AI agent engineering:** multi-agent orchestration, tool execution, evaluation, human-in-the-loop and resumable workflows.
-- **Context engineering:** deterministic commands, scoped edits, prompt caching and on-demand integration context.
-- **Connector engineering:** ownership of the connector layer for third-party services through Model Context Protocol (MCP) and APIs.
-- **AI platform reliability:** model routing and failover, distributed systems, event-driven architecture, observability and root-cause analysis.
-- **AI FinOps and security:** token metering, usage attribution, billing integrity, expenditure controls and credential governance.
-- **Engineering delivery:** technical architecture, code reviews, cross-service integration, QA and release coordination.
+## Engineering Journey
 
-**Working stack:** Python, Go, TypeScript, Kotlin, JavaScript, Dart · CrewAI, LangGraph, MCP · Node.js, React, Flutter · Redis, MongoDB, Docker · Langfuse, Grafana.
+| Generation | Engineering contributions |
+|---|---|
+| **DhiWise — Design-to-Code** | UI identification algorithms, Figma parsing, structural analysis, screen regeneration and code-generation pipelines. |
+| **WiseGPT — AI-Assisted Development** | LLM architecture, backend engineering, inline code completion, context-aware editing and engineering integration. |
+| **Rocket Build — Agentic AI** | Production code generation, command architecture, context engineering, human-in-the-loop and third-party integrations. |
+| **AI Harness Engineering** | Multi-agent execution, orchestration integration, durable workflows, lifecycle management and failure recovery. |
 
-## Selected engineering writing
+## Areas of Ownership & Contribution
 
-| Article | Subject |
-| --- | --- |
-| [How I Build AI Agent Systems at Rocket.new (From the Inside)](https://dev.to/dhruvvgandhii/how-i-build-ai-agent-systems-at-rocketnew-from-the-inside-7of) | Production agent systems and engineering progression |
-| [80+ Commands, One Architecture: The System Design Behind Rocket's Precision Mode](https://www.rocket.new/blog/80-plus-commands-one-architecture-behind-rocket-precision-mode) | Deterministic command execution and validation |
-| [Surgical Editing: How Rocket Changes One Component Without Breaking the Rest](https://www.rocket.new/blog/surgical-editing-dependency-graph) | Scoped software changes and dependency analysis |
-| [Figma File In, Production Code Out: Preserving Every Spacing Decision](https://www.rocket.new/blog/figma-file-in-production-code-out-preserving-every-spacing-decision) | Design-to-code generation and layout fidelity |
+### AI Agents & Harness Engineering
 
-More writing: [Rocket.new author archive](https://www.rocket.new/author/dhruv-gandhi) and [DEV Community](https://dev.to/dhruvvgandhii).
+- Multi-agent orchestration and specialist-agent integration.
+- Initial application generation and follow-up development workflows.
+- Agent lifecycle management, state persistence and execution recovery.
+- Human-in-the-loop decision-making and workflow continuation.
+- Agent evaluation, testing and production reliability.
 
-## Developer community
+### Context Engineering & Developer Experience
 
-**Community Organizer — [AI Surat](https://in.linkedin.com/company/aisurat)**
+- Structured slash-command architecture and scoped context.
+- Deterministic execution alongside probabilistic AI workflows.
+- On-demand integration context retrieval.
+- AI-assisted inline code completion and editing.
+- Prompt architecture, caching and context management.
+- Connector integrations through Model Context Protocol (MCP) and APIs.
 
-I help organize practical AI learning experiences and developer events in Surat, including Build with AI programs with Google for Developers.
+### AI Infrastructure & Governance
 
-[AI Surat event archive](https://www.commudle.com/communities/tfug-surat/events)
+- LLM provider integration, model routing and failover.
+- Token accounting, reservation and billing integrity.
+- AI FinOps and usage governance.
+- Model-access security and credential management.
+- Observability, incident diagnosis and operational resilience.
+
+### Architecture & Engineering Delivery
+
+- Backend and distributed systems architecture.
+- Cross-service communication and event-driven workflows.
+- Technical design, code reviews and integration ownership.
+- Multi-repository release coordination.
+- Engineering documentation and root-cause analysis.
+
+## Technical Stack
+
+| Domain | Technologies |
+|---|---|
+| Programming | Python, Go, TypeScript, JavaScript, Kotlin, Dart |
+| Agent Engineering | CrewAI, LangGraph, MCP, LLM APIs, Tool Calling |
+| Backend | Node.js, REST APIs, Event-Driven Systems, SSE, WebSockets |
+| Frontend | React, Next.js, Flutter |
+| Infrastructure | AWS, Docker, Redis, MongoDB |
+| Observability | Langfuse, Grafana, CloudWatch |
+| AI Development | Cursor, Claude Code, Codex |
+
+## Selected Engineering Publications
+
+- [Two Systems, One Codebase: The Architecture Behind Rocket 1.0's Build Layer](https://www.rocket.new/blog/80-plus-commands-one-architecture-behind-rocket-precision-mode)
+- [Surgical Editing: How Rocket Changes One Component Without Breaking the Rest](https://www.rocket.new/blog/surgical-editing-dependency-graph)
+- [Figma File In, Production Code Out — Preserving Every Spacing Decision](https://www.rocket.new/blog/figma-file-in-production-code-out-preserving-every-spacing-decision)
+
+**Publication archives:** [Rocket.new](https://www.rocket.new/author/dhruv-gandhi) · [DhiWise](https://www.dhiwise.com/author/dhruv-gandhi) · [DEV Community](https://dev.to/dhruvvgandhii)
+
+## Developer Community
+
+**Community Organizer — AI Surat**
+
+I organize applied-AI initiatives, developer engagement and hands-on learning experiences, including programs with Google for Developers.
+
+My community interests include AI agents, practical generative AI, engineering knowledge sharing and developer capability development.
 
 ## Education
 
-Bachelor of Technology (Computer Science) · P P Savani University · 2017–2021
+**Bachelor of Technology — Computer Science**  
+P P Savani University · 2017–2021
 
-## Public work
+## Engineering Principles
 
-Most of my professional contributions are to proprietary systems. This GitHub profile contains independent projects and earlier engineering work; it is not a complete record of my production contributions.
+- Design for failure, not only the happy path.
+- Validate outcomes before claiming success.
+- Make autonomous execution observable and controllable.
+- Treat cost, security and reliability as architectural requirements.
+- Prefer reproducible engineering evidence over assumptions.
 
-[Browse my public repositories](https://github.com/dhruvvgandhii?tab=repositories)
+## A Note on My Repositories
+
+Much of my professional engineering work involves proprietary production systems and is not publicly available.
+
+My public GitHub repositories represent personal projects, learning, technical exploration and independent engineering implementations rather than the complete scope of my professional contributions.
+
+---
+
+**Connect:** [LinkedIn](https://www.linkedin.com/in/dhruvvgandhii/) · [Peerlist](https://peerlist.io/dhruvvgandhii) · [Email](mailto:contact.dhruv.gandhi@gmail.com)
