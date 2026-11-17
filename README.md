@@ -1,201 +1,60 @@
-<!--
-**Dhruv-Gandhi/Dhruv-Gandhi** is a âœ¨ _special_ âœ¨ repository because its `README.md` (this file) appears on your GitHub profile.--->
-<div align="center">
-  <h1> Hello There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-</div>
-<div align="center">
-<p align="center">
- <img src="https://brennanpropertyireland.files.wordpress.com/2015/02/hello-1.gif?w=300&h=150" alt="Hello There">
-  <h1>👨🏻‍💻 Dhruv Gandhi 👨🏻‍💻 </h1>
-<h3> 👨‍💻 Software Engineer 👦 | 🌏 Surat,Gujarat, India </h3>
-</div>
-<div align="center">
-<p align="center">
-<a href="https://bit.ly/dhruvvgandhii_linkedin">
-  <img src="https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&labelColor=blue">
-</a>
- <!--
-<a href="https://github.com/dhruvvgandhi"> 
-  <img src="https://komarev.com/ghpvc/?username=dhruvvgandhi&label=Visitors&color=2e8b57&style=flat" />
- </a>--->
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/dhruvvgandhi/count.svg" />
-</p>
-</p>
-</div>
-<br >
-<br />
+# Dhruv Gandhi
 
-**My Introduction:**
+**Software Development Engineer II · Production AI Systems · Agentic AI · AI Harness Engineering**
 
-👉Hello, I'm Dhruv Gandhi 🕺, A am Student👨‍ and Lerner 💻 From 📍 Surat , Gujarat, India 🌐.♻ Currently ♻ i am doing my undergraduate studies as B-Tech Computer Engineering 💻 (Final year) at [@PP_Savani_University](https://ppsu.ac.in)📚, and I am passionate about technology and want to learn & explore new technologies🔌. I have experiencs of intern as Full Stack Developer 💻 at [@Board_Infinity](https://www.boardinfinity.com/),I'm a Teamleader of ☣ Techwiz ♻ and ☣ BrainTeasers ♻ in Previous semester. Apart From My B-TECH Studies, I love photography My profile Photography Page 📸 [@apnaclicks.in](https://www.instagram.com/apnaclicks.in/) 📸,CyberSecurity 💻 and playing Cricket 🏏.
+[Rocket.new](https://www.rocket.new/) (formerly DhiWise) · Surat, Gujarat, India
 
-<!--
-**My GitHub contributions as a Game of Life:**>
-[![GitHub Game of Life](https://github4life.herokuapp.com/dhruvvgandhi.gif?z=6)](https://github4life.herokuapp.com/dhruvvgandhi)
--->
+[LinkedIn](https://www.linkedin.com/in/dhruvvgandhii/) · [Rocket Engineering](https://www.rocket.new/author/dhruv-gandhi) · [DEV Community](https://dev.to/dhruvvgandhii) · [Email](mailto:contact.dhruv.gandhi@gmail.com)
 
-**Talking about Personal Stuffs:**
-  <a href="https://github.com/tirtharajghosh/"><img align="right" width="350" height="263" src="https://user-images.githubusercontent.com/37224638/96453298-e3d7bd00-1237-11eb-88d0-3da2f5777413.gif"></a>
-- 👨‍ I had previously participated in national level Hackathon and state level Hackathon
-- 💻 I’m Currently learning MachineLearning,DataScience and Cybersecurity
-- 💬 Ask me about anything, I am happy to help
-- 🤝 I am looking to collaborate on making any tech community
-- 🌟 Fun-Fact i started my writing blogs 📝 , [blog on instagram ](https://www.instagram.com/neoteric_thoughts/) from last few years Also made a photography 📸 insta account [Apnaclick.in](https://www.instagram.com/apnaclicks.in/)
-- 📧 How to reach me : contact.dhruv.gandhi@gmail.com
-- 📝 Get my Resume click on this 👉 [Resume_link](https://cdn.dribbble.com/users/20580/screenshots/1276530/artisan-errors.gif)
-  
-<br>
-<br>
+I build the engineering layer between an LLM call and a dependable product: orchestration, context, human oversight, provider integration, recovery, metering and the code-generation workflows they sit inside.
 
-**Connect with Me:**
-<br>
-![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
+I joined DhiWise in April 2021 and progressed from engineering intern to SDE-II. My work has evolved from deterministic UI-generation algorithms to AI-assisted developer tools and production multi-agent systems.
 
-## 👨🏻‍💻 My Languages and Tools
-<br>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="50" src=" https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code> 
+## Four generations of software generation
 
-<p align="center">
- <br/>
-<br/>
-<img src="https://img.shields.io/badge/OS-Windows%2010-informational?style=for-the-badge&logo=windows&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Kali-linux%20-informational?style=for-the-badge&logo=linux&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Android%2010-informational?style=for-the-badge&logo=Android&logoColor=white" />&nbsp;&nbsp;  
-<img src="https://img.shields.io/badge/Browser-Chrome-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Browser-epic%20-informational?style=for-the-badge&logo=google-chrome&&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp;&nbsp;
-</p>
+| Product | My engineering contribution |
+| --- | --- |
+| **DhiWise — Design-to-code** | Figma analysis, rule-based UI identification across 25+ component types, layout algorithms and incremental screen regeneration. Introduced LLM-assisted view naming in 2023. |
+| **WiseGPT — AI-assisted development** | Backend and LLM architecture, inline code completion and editing, streaming, context management, technical reviews and release coordination. |
+| **Rocket Build — Agentic AI** | Co-ownership of core code-generation workflows, structured commands, scoped context, user-in-the-loop execution and MCP/API connector integrations. Contributed to CrewAI and LangGraph-based agent systems. |
+| **AI harness integration** | Engineering work on a Go-based execution layer: agent coordination, durable state, event correlation, lifecycle controls and crash recovery. |
 
-<p>&nbsp;</p>
+## What I work on
 
-## ☎️ Contact Me:
-<p align="center">
-<a href="https://bit.ly/dhruvvgandhii_linkedin">
-  <img src="https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&labelColor=blue">
-</a>
-<a href="mailto:contact.dhruv.gandhi@gmail.com?subject=Hello%20Dhruv,%20From%20Github">
-  <img src="https://img.shields.io/badge/-Gmail-%23db483b?style=flat&logo=Gmail&labelColor=red&logoColor=white">
-</a>
-<a href="https://bit.ly/dhruvvgandhii_instagram">
-  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=Instagram&logoColor=white">
-</a>
-<a href="https://bit.ly/Dhruv_Gandhi_Twitter">
-  <img src="https://img.shields.io/badge/-Twitter-%231a91da?style=flat&logo=Twitter&logoColor=white">
-</a>
-<a href="https://t.me/Iknowaboutyou">
-  <img src="https://img.shields.io/badge/-Telegram-%231a91da?style=flat&logo=Telegram&logoColor=white">
-</a>
-</p>
+- **AI agent engineering:** multi-agent orchestration, tool execution, evaluation, human-in-the-loop and resumable workflows.
+- **Context engineering:** deterministic commands, scoped edits, prompt caching and on-demand integration context.
+- **Connector engineering:** ownership of the connector layer for third-party services through Model Context Protocol (MCP) and APIs.
+- **AI platform reliability:** model routing and failover, distributed systems, event-driven architecture, observability and root-cause analysis.
+- **AI FinOps and security:** token metering, usage attribution, billing integrity, expenditure controls and credential governance.
+- **Engineering delivery:** technical architecture, code reviews, cross-service integration, QA and release coordination.
 
-<p>&nbsp;</p>
+**Working stack:** Python, Go, TypeScript, Kotlin, JavaScript, Dart · CrewAI, LangGraph, MCP · Node.js, React, Flutter · Redis, MongoDB, Docker · Langfuse, Grafana.
 
-## 📈 My Stats: 
+## Selected engineering writing
 
-![Dhruv_Gandhi's github stats](https://github-readme-stats.vercel.app/api?username=dhruvvgandhi&count_private=true&show_icons=true&hide=issues,contribs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvvgandhi&layout=compact)
+| Article | Subject |
+| --- | --- |
+| [How I Build AI Agent Systems at Rocket.new (From the Inside)](https://dev.to/dhruvvgandhii/how-i-build-ai-agent-systems-at-rocketnew-from-the-inside-7of) | Production agent systems and engineering progression |
+| [80+ Commands, One Architecture: The System Design Behind Rocket's Precision Mode](https://www.rocket.new/blog/80-plus-commands-one-architecture-behind-rocket-precision-mode) | Deterministic command execution and validation |
+| [Surgical Editing: How Rocket Changes One Component Without Breaking the Rest](https://www.rocket.new/blog/surgical-editing-dependency-graph) | Scoped software changes and dependency analysis |
+| [Figma File In, Production Code Out: Preserving Every Spacing Decision](https://www.rocket.new/blog/figma-file-in-production-code-out-preserving-every-spacing-decision) | Design-to-code generation and layout fidelity |
 
-## 🚀 My Projects Repositories:
-<p align="center">
-<a href="https://github.com/dhruvvgandhi/steganography-and-encryption">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=steganography-and-encryption&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
-<a href="https://github.com/dhruvvgandhi/Neotric_thought_blog_App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=Neotric_thought_blog_App&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
-<a href="https://github.com/dhruvvgandhi/Flutter-Covid19-DashBoard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=Flutter-Covid19-DashBoard&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
-<a href="https://github.com/dhruvvgandhi/django-python-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=django-python-project&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
+More writing: [Rocket.new author archive](https://www.rocket.new/author/dhruv-gandhi) and [DEV Community](https://dev.to/dhruvvgandhii).
 
-<a href="https://github.com/dhruvvgandhi/Wireless_Car">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=Wireless_Car&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
+## Developer community
 
-<a href="https://github.com/dhruvvgandhi/Reciprocity">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=Reciprocity&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
+**Community Organizer — [AI Surat](https://in.linkedin.com/company/aisurat)**
 
-<a href="https://github.com/dhruvvgandhi/Railway_Bot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=Railway_Bot&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
+I help organize practical AI learning experiences and developer events in Surat, including Build with AI programs with Google for Developers.
 
-<a href="https://github.com/dhruvvgandhi/Railway_Inquire_With_GUI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=Railway_Inquire_With_GUI&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
-<a href="https://github.com/dhruvvgandhi/Android_Project_Create-VPN">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=Android_Project_Create-VPN&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
+[AI Surat event archive](https://www.commudle.com/communities/tfug-surat/events)
 
-<a href="https://github.com/dhruvvgandhi/hms-hospitalmanagementsytem-in-java">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=hms-hospitalmanagementsytem-in-java&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>  
+## Education
 
-<a href="https://github.com/dhruvvgandhi/Embedded_system_project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=Embedded_system_project&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
+Bachelor of Technology (Computer Science) · P P Savani University · 2017–2021
 
-<a href="https://github.com/dhruvvgandhi/webdesiging">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=webdesiging&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</a>
-  
-<a href="https://github.com/dhruvvgandhi/Smart-Attendance-System-Using-Bluetooth-Beacon">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=Smart-Attendance-System-Using-Bluetooth-Beacon&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
-</p>
+## Public work
 
+Most of my professional contributions are to proprietary systems. This GitHub profile contains independent projects and earlier engineering work; it is not a complete record of my production contributions.
 
-## 🚀 My Educational Repositories:
-<p align="center">
-  <a href="https://github.com/dhruvvgandhi/AI-PRACTICAL">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=AI-PRACTICAL&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
-  <a href="https://github.com/dhruvvgandhi/MachineLearning-Practical">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=MachineLearning-Practical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
-  <a href="https://github.com/dhruvvgandhi/system_software_practical">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=system_software_practical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
-  <a href="https://github.com/dhruvvgandhi/IOT-PRACTICAL">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=IOT-PRACTICAL&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
-  
-  <a href="https://github.com/dhruvvgandhi/Flutter-Api-Handling">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=Flutter-Api-Handling&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
-  
-  <a href="https://github.com/dhruvvgandhi/Flutter-Widget">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=Flutter-Widget&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
-  
-  <a href="https://github.com/dhruvvgandhi/Data_Structures">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=Data_Structures&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
-  
-  <a href="https://github.com/dhruvvgandhi/Python-practical">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=Python-practical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
-  
-  <a href="https://github.com/dhruvvgandhi/Software_Engineering">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=Software_Engineering&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
-  
-  <a href="https://github.com/dhruvvgandhi/design_analysis_algorithm">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=design_analysis_algorithm&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
-  
-  <a href="https://github.com/dhruvvgandhi/Computer_Organization">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=Computer_Organization&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
-  
-  <a href="https://github.com/dhruvvgandhi/Computer_Graphics">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=Computer_Graphics&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
-  
-  <a href="https://github.com/dhruvvgandhi/Operating_system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvvgandhi&repo=Operating_system&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
-  
-  </p>
-##
-<p align="center">
- <img src="https://totallyadd.com/wp-content/uploads/2017/08/giphy.gif"> 
- <h2 align="center">I am ThankFul To You For Visiting My GITHUB Profile</h2>
-  <h2 align="center">Hope You Like My GITHUB Profile</h2>
- <h2 align="center">Dhruv Gandhi </h2>
-</p>
+[Browse my public repositories](https://github.com/dhruvvgandhii?tab=repositories)
